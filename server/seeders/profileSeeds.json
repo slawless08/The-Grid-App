@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Samuel Lawless",
+        "email": "samTest@email.com",
+        "password": "password1234"
+    }, 
+    {
+        "name": "Ahmad Kane",
+        "email": "ahmadTest@email.com",
+        "password": "password4321"
+    }, 
+    {
+        "name": "Peter Parker",
+        "email": "spiderman@email.com",
+        "password": "password5678"
+    }, 
+    {
+        "name": "Mary Jane",
+        "email": "maryjane@email.com",
+        "password": "password8765"
+    }
+]
